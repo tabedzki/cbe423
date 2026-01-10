@@ -52,7 +52,7 @@ source ~/miniconda3/bin/activate
 conda init --all
 ```
 
-# Making a Miniconda Environment
+# Making a Conda Environment
 
 Restart the terminal and do the following to make a Conda environment named `cms` (cms = computational materials science):
 
