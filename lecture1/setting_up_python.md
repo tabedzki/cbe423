@@ -1,7 +1,5 @@
 # Installing Miniconda
 
-If you do not have Conda installed, please do the following:
-
 ## Windows
 
 1. If you do not have a terminal client, download Cmder (mini): https://cmder.app
