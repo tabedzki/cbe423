@@ -15,8 +15,6 @@ start /wait "" .\miniconda.exe /S /AddToPath=1
 del .\miniconda.exe
 ```
 
-If preferred, you can instead install the [Windows Subsystem for Linux](https://ubuntu.com/desktop/wsl) to use Ubuntu on your Windows machine, in which case you should follow the Linux instructions
-
 ### Mac
 
 Open the terminal and run the following commands:
