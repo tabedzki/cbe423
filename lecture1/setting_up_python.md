@@ -6,9 +6,11 @@ If you do not have Conda installed, please do the following:
 
 1. If you do not have a terminal client, download Cmder (mini): https://cmder.app
 2. Extract the zip file and run `cmder.exe`
-3. Run the following in the Cmder terminal:
+3. Use `cd` to 
+4. Run the following in the Cmder terminal:
 
 ```bash
+cd %USERPROFILE%
 curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe -o .\miniconda.exe
 start /wait "" .\miniconda.exe /S /AddToPath=1
 del .\miniconda.exe
