@@ -62,7 +62,7 @@ Restart the terminal and do the following to make a Conda environment named `cms
 conda create --name cms python=3.13
 ```
 
-Make sure to accept the above terms of service. Then do the following:
+Make sure to accept the above terms of service. Then active your environment, install the packagage manager `uv`, and then use `uv` to install several Python packages in your `cms` environment:
 
 ```bash
 conda activate cms
