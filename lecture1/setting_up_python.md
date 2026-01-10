@@ -4,7 +4,7 @@
 
 ### Windows
 
-1. If you do not have a terminal client, download Cmder (mini): https://cmder.app
+1. If you do not have a terminal client, download [Cmder (mini)](https://cmder.app)
 2. Extract the zip file and run `cmder.exe`
 3. Run the following in the Cmder terminal:
 
@@ -14,6 +14,8 @@ curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe -o
 start /wait "" .\miniconda.exe /S /AddToPath=1
 del .\miniconda.exe
 ```
+
+If preferred, you can instead install the [Windows Subsystem for Linux](https://ubuntu.com/desktop/wsl) to use Ubuntu on your Windows machine, in which case you should follow the Linux instructions
 
 ### Mac
 
