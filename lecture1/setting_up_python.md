@@ -67,5 +67,5 @@ Make sure to accept the above terms of service. Then do the following:
 ```bash
 conda activate cms
 pip install uv
-uv pip install jupyter ruff
+uv pip install jupyter ipykernel ruff
 ```
