@@ -1,6 +1,8 @@
-# Installing Miniconda
+# Getting Set up with Python
 
-## Windows
+## Installing Miniconda
+
+### Windows
 
 1. If you do not have a terminal client, download Cmder (mini): https://cmder.app
 2. Extract the zip file and run `cmder.exe`
@@ -13,7 +15,7 @@ start /wait "" .\miniconda.exe /S /AddToPath=1
 del .\miniconda.exe
 ```
 
-## Mac
+### Mac
 
 Open the terminal and run the following commands:
 
@@ -39,7 +41,7 @@ source ~/miniconda3/bin/activate
 conda init --all
 ```
 
-## Linux
+### Linux
 
 Open the terminal and run the following commands:
 
@@ -52,7 +54,7 @@ source ~/miniconda3/bin/activate
 conda init --all
 ```
 
-# Making a Conda Environment
+## Making a Conda Environment
 
 Restart the terminal and do the following to make a Conda environment named `cms` (cms = computational materials science):
 
