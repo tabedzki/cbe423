@@ -1,0 +1,4 @@
+Loading vasp/6.5.1
+  Loading requirement: intel-tbb/2021.13 intel-rt/2024.2 intel-oneapi/2024.2
+    intel-mpi/oneapi/2021.13 intel-mkl/2024.2
+    hdf5/oneapi-2024.2/intel-mpi/1.14.4
