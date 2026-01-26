@@ -1,5 +1,7 @@
 # Getting Set up with Python
 
+Here, you will install Python on your local machine, which is the recommended approach. Nonetheless, if you prefer to use Python in a cloud-hosted environment instead, I recommend using [molab](https://molab.marimo.io/).
+
 ## Installing Miniconda
 
 ### Windows
