@@ -1,11 +1,13 @@
 # Getting Set up with Python
 
+Here, you will install Python on your local machine, which is the recommended approach. Nonetheless, if you prefer to use Python in a cloud-hosted environment instead, I recommend using [molab](https://molab.marimo.io/).
+
 ## Installing Miniconda
 
 ### Windows
 
 1. If you do not have a terminal client, download [Cmder (mini)](https://cmder.app)
-2. Extract the zip file and run `cmder.exe`
+2. Extract the zip file and run `Cmder.exe`
 3. Run the following in the Cmder terminal:
 
 ```bash
