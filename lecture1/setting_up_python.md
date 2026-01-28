@@ -2,6 +2,10 @@
 
 Here, you will install Python on your local machine, which is the recommended approach. Nonetheless, if you prefer to use Python in a cloud-hosted environment instead, I recommend using [molab](https://molab.marimo.io/).
 
+Common issues:
+
+- If you already have Anaconda installed on your machine, it may not play nicely with VS Code by default unless you have added it to your system `PATH`, which the commands below achieve. If you want to use your pre-existing Anaconda environment, you need to provide the full path to the Python executable, which you can find via `which python` in the terminal.
+
 ## Installing Miniconda
 
 ### Windows
