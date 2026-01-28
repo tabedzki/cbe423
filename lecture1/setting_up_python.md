@@ -93,4 +93,3 @@ Then you should try out the Jupyter Notebook, for instance by downloading and ru
 Common Issues:
 
 - If you are on Windows and trying to use the built-in terminal in VS Code, you will have a bad time. The easiest option is to simply use Cmder separately from VS Code. Alternatively, if you are feeling adventurous, you can try following the instructions [here](https://medium.com/talpor/windows-terminal-cmder-%EF%B8%8F-573e6890d143).
-- 
