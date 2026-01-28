@@ -17,6 +17,10 @@ start /wait "" .\miniconda.exe /S /AddToPath=1
 del .\miniconda.exe
 ```
 
+Common issues:
+
+- The commands do not necessarily work in PowerShell. Please use Cmder or the command prompt, although the former is preferred.
+
 ### Mac
 
 Open the terminal and run the following commands:
@@ -73,3 +77,9 @@ uv pip install jupyter ipykernel ruff
 ```
 
 What we have done is made a dedicated environment for you to install all your Python packages in. It is better to use a dedicated environment rather than adding packaegs to your base environment because if something goes wrong, then you do not need to re-install Anaconda from scratch.
+
+## Jupyter Notebook
+
+If you do not already have VS Code installed on your computer, please install it as described [here](https://code.visualstudio.com/download) along with the following extensions: [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter), and [ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff).
+
+Then you should try out the Jupyter Notebook, for instance by downloading and running [this example](https://github.com/Andrew-S-Rosen/cbe423/blob/main/lecture2/intro_pymatgen.ipynb). Note that you will need to select your `cms` environment as the kernel in the Jupyter Notebook.
