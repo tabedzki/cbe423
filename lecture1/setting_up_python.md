@@ -71,3 +71,5 @@ conda activate cms
 pip install uv
 uv pip install jupyter ipykernel ruff
 ```
+
+What we have done is made a dedicated environment for you to install all your Python packages in. It is better to use a dedicated environment rather than adding packaegs to your base environment because if something goes wrong, then you do not need to re-install Anaconda from scratch.
