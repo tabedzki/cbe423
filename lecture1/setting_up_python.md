@@ -89,3 +89,8 @@ What we have done is made a dedicated environment for you to install all your Py
 If you do not already have VS Code installed on your computer, please install it as described [here](https://code.visualstudio.com/download) along with the following extensions: [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter), and [ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff).
 
 Then you should try out the Jupyter Notebook, for instance by downloading and running [this example](https://github.com/Andrew-S-Rosen/cbe423/blob/main/lecture2/intro_pymatgen.ipynb). Note that you will need to select your `cms` environment as the kernel in the Jupyter Notebook.
+
+Common Issues:
+
+- If you are on Windows and trying to use the built-in terminal in VS Code, you will have a bad time. The easiest option is to simply use Cmder separately from VS Code. Alternatively, if you are feeling adventurous, you can try following the instructions [here](https://medium.com/talpor/windows-terminal-cmder-%EF%B8%8F-573e6890d143).
+- 
