@@ -6,7 +6,7 @@ Here, you will install Python on your local machine, which is the recommended ap
 
 ### Windows
 
-1. If you do not have a terminal client, download [Cmder (mini)](https://cmder.app)
+1. Download [Cmder (mini)](https://cmder.app)
 2. Extract the zip file and run `Cmder.exe`
 3. Run the following in the Cmder terminal:
 
