@@ -10,8 +10,6 @@ Common issues:
 
 ### Windows
 
-Using Windows is fine in this course, but if you prefer, you can also install Linux on Windows [via WSL](https://learn.microsoft.com/en-us/windows/wsl/install).
-
 1. Download [Cmder (mini)](https://cmder.app)
 2. Extract the zip file and run `Cmder.exe`
 3. Run the following in the Cmder terminal:
@@ -22,6 +20,10 @@ curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe -o
 start /wait "" .\miniconda.exe /S /AddToPath=1
 del .\miniconda.exe
 ```
+
+Notes:
+
+- Using Windows is fine in this course, but if you prefer, you can also install Linux on Windows [via WSL](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 Common issues:
 
