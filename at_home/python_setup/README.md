@@ -2,7 +2,7 @@
 
 Here, you will install Python on your local machine, which is the recommended approach. Nonetheless, if you prefer to use Python in a cloud-hosted environment instead, you can import the Jupyter Notebooks to [Google Colab](https://colab.research.google.com/) or [molab](https://molab.marimo.io/).
 
-Common issues:
+Note:
 
 - If you already have Anaconda installed on your machine, it may not play nicely with VS Code by default unless you have added it to your system `PATH`, which the commands below achieve. If you want to use your pre-existing Anaconda environment, you need to provide the full path to the Python executable, which you can find via `which python` in the terminal.
 
@@ -10,9 +10,7 @@ Common issues:
 
 ### Windows
 
-Using Windows is fine in this course, but if you prefer, you can also install Linux on Windows [via WSL](https://learn.microsoft.com/en-us/windows/wsl/install).
-
-1. Download [Cmder (mini)](https://cmder.app)
+1. Download [Cmder](https://cmder.app)
 2. Extract the zip file and run `Cmder.exe`
 3. Run the following in the Cmder terminal:
 
@@ -23,9 +21,10 @@ start /wait "" .\miniconda.exe /S /AddToPath=1
 del .\miniconda.exe
 ```
 
-Common issues:
+Notes:
 
-- The commands do not necessarily work in PowerShell. Please use Cmder or the command prompt, although the former is preferred.
+- The commands do not work in PowerShell. Please use Cmder or the command prompt, although the former is preferred.
+- Using Windows is fine in this course, but if you prefer, you can also install Linux on Windows [via WSL](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 ### Mac
 
@@ -88,8 +87,8 @@ What we have done is made a dedicated environment for you to install all your Py
 
 If you do not already have VS Code installed on your computer, please install it as described [here](https://code.visualstudio.com/download) along with the following extensions: [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter), and [ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff).
 
-Then you should try out the Jupyter Notebook, for instance by downloading and running [this example](/lectures/lecture2/intro_pymatgen.ipynb). Note that you will need to select your `cms` environment as the kernel in the Jupyter Notebook.
+Then you should try out the Jupyter Notebook, for instance by downloading and running [this test notebook](test.ipynb). Note that you will need to select your `cms` environment as the kernel in the Jupyter Notebook.
 
-Common Issues:
+Note:
 
 - If you are on Windows and trying to use the built-in terminal in VS Code, you will have a bad time. The easiest option is to simply use Cmder separately from VS Code. Alternatively, if you are feeling adventurous, you can try following the instructions [here](https://medium.com/talpor/windows-terminal-cmder-%EF%B8%8F-573e6890d143).
