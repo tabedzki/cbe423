@@ -88,7 +88,7 @@ What we have done is made a dedicated environment for you to install all your Py
 
 If you do not already have VS Code installed on your computer, please install it as described [here](https://code.visualstudio.com/download) along with the following extensions: [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter), and [ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff).
 
-Then you should try out the Jupyter Notebook, for instance by downloading and running [this example](/lectures/lecture2/intro_pymatgen.ipynb). Note that you will need to select your `cms` environment as the kernel in the Jupyter Notebook.
+Then you should try out the Jupyter Notebook, for instance by downloading and running [this test notebook](test.ipynb). Note that you will need to select your `cms` environment as the kernel in the Jupyter Notebook.
 
 Common Issues:
 
