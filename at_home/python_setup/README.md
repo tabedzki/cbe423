@@ -10,7 +10,7 @@ Note:
 
 ### Windows
 
-1. Download [Cmder (mini)](https://cmder.app)
+1. Download [Cmder](https://cmder.app)
 2. Extract the zip file and run `Cmder.exe`
 3. Run the following in the Cmder terminal:
 
