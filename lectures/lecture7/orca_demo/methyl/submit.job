@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH --job-name=orca          # create a short name for your job
+#SBATCH --nodes=1                # total node count
+#SBATCH --ntasks-per-node=4      # total number of CPUs per node
+#SBATCH --cpus-per-task=1        # only needed for MP parallelization
+#SBATCH --mem=20G                # memory per node
+#SBATCH --time=00:30:00          # total run time limit (HH:MM:SS)
+
+module purge
+module load orca/6.1.1
+
+$ORCA_PATH/orca orca.inp > orca.out
