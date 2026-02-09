@@ -10,7 +10,7 @@ Note:
 
 ### Windows
 
-1. Download [Cmder](https://cmder.app)
+1. Download [Cmder (full)](https://cmder.app)
 2. Extract the zip file and run `Cmder.exe`
 3. Run the following in the Cmder terminal:
 
@@ -23,7 +23,7 @@ del .\miniconda.exe
 
 Notes:
 
-- The commands do not work in PowerShell. Please use Cmder or the command prompt, although the former is preferred.
+- Please use Cmder and not PowerShell or the command prompt.
 - Using Windows is fine in this course, but if you prefer, you can also install Linux on Windows [via WSL](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 ### Mac
