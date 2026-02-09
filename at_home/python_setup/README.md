@@ -23,7 +23,7 @@ del .\miniconda.exe
 
 Notes:
 
-- Please use Cmder and not PowerShell or the command prompt.
+- Please use Cmder and not PowerShell or the command prompt in this course.
 - Using Windows is fine in this course, but if you prefer, you can also install Linux on Windows [via WSL](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 ### Mac
