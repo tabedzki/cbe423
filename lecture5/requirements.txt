@@ -1,2 +1,0 @@
-ase@git+https://gitlab.com/ase/ase.git
-matcalc[matgl]>=0.4.5
