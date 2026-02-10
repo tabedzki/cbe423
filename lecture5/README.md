@@ -7,3 +7,7 @@
 - [Geometry Optimizations on a Fullerene](2_fullerene_optimization.ipynb) | <a target="_blank" href="https://colab.research.google.com/github/Andrew-S-Rosen/cbe423/blob/main/lecture5/2_fullerene_optimization.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+- [Surface Adsorption Calculation (optional)](3_ase_surface_adsorption.ipynb) | <a target="_blank" href="https://colab.research.google.com/github/Andrew-S-Rosen/cbe423/blob/main/lecture5/3_ase_surface_adsorption.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
