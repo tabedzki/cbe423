@@ -1,0 +1,16 @@
+[project]
+name = "cbe423"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "ase",
+    "ipykernel>=7.1.0",
+    "matcalc[matgl]>=0.4.5",
+    "mp-api>=0.45.15",
+    "pip>=26.0.1",
+    "pymatgen>=2025.10.7",
+    "uv>=0.10.0",
+]
+
+[tool.uv.sources]
+ase = { git = "https://gitlab.com/ase/ase.git" }
