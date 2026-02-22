@@ -12,4 +12,4 @@ conda activate cms
 
 export ASE_VASP_COMMAND="srun --nodes 1 --ntasks-per-node 4 vasp_std"
 
-python example.py > vasp.out
+python minimal_example.py > vasp.out
