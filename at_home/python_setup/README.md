@@ -6,6 +6,10 @@ Note:
 
 - If you already have Anaconda installed on your machine, it may not play nicely with VS Code by default unless you have added it to your system `PATH`, which the commands below achieve. If you want to use your pre-existing Anaconda environment, you need to provide the full path to the Python executable, which you can find via `which python` in the terminal.
 
+## Installing Git
+
+Please [install git](https://git-scm.com/install/). We will not actively use git throughout the course, but it is necessary for installing a few packages we might use.
+
 ## Installing Miniconda
 
 ### Windows
